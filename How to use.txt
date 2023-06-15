@@ -1,0 +1,10 @@
+Steps by Steps (et je parle pas de l'aérobic):
+
+1. Ouvrir la page dans CHROME.
+2. Faire CTRL+SHIFT+I
+3.Ouvrir la console JS
+4.WIN+E, superposer l'explorateur et CHROME.
+5.Glisser le .js
+6.Entrée.
+7.Fermer la console.
+8.Calmer ses ardeurs.
